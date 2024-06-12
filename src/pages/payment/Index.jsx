@@ -52,7 +52,7 @@ const Index = () => {
   };
   useEffect(() => {
     setTitle("BCR Binar Car Rent || Pilih mobil");
-    toTop();
+    
   }, []);
   return (
     <div className="container">
